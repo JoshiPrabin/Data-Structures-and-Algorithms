@@ -1,2 +1,2 @@
 # Data-Structures-and-Algorithms
-This is a repository for some DSA questions
+This is a repository for some DSA

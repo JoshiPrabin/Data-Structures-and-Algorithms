@@ -54,7 +54,7 @@ void display(struct queue * q){
     if (isEmpty(q))
     {
         printf("The queue is empty.\n");
-        return 0;
+        exit;
     }
     
     printf("The data in the queue is as follows: \n");
